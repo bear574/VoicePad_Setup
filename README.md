@@ -1,4 +1,4 @@
-# @'
+
 VoicePad — бесплатный Soundpad с изменением голоса
 ===================================================
 
@@ -38,4 +38,3 @@ Win+R → mmsys.cpl → вкладка "Запись" → CABLE Output → Св�
 УДАЛЕНИЕ
 --------
 Панель управления → Программы и компоненты → VoicePad → Удалить
-'@ | Set-Content -Path assets\readme_for_user.txt -Encoding UTF8
